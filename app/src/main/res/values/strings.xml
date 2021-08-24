@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Women Safety App</string>
+    <string name="sos">SOS</string>
+    <string name="hint_user_name">Name</string>
+
+    <string name="hint_phone">Phone</string>
+    <string name="hint_email">Email</string>
+
+    <string name="trickes">Safety Tricks</string>
+    <string name="profile">Profile</string>
+</resources>
